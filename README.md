@@ -509,6 +509,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Labs64 NetLicensing**](https://netlicensing.io/wiki/restful-api) ([API Test Center](https://netlicensing.io/NetLicensing-API/)) | Innovative License Management Solution. | **N/A** |
 | [**LaunchLibrary**](https://launchlibrary.net/docs/1.3/api.html) | Aggregated info about space launches. | **N/A** |
 | [**LetsValidate**](https://github.com/letsvalidate/api) | Uncovers the technologies used on websites and URL to thumbnail. | **N/A** |
+| [**LinkMeta**](https://linkmeta.dev) | Free URL metadata extraction API. Retrieve titles, descriptions, images, and Open Graph data from any URL. | **N/A** |
 | [**LinkPreview**](https://www.linkpreview.net) | RESTful API that returns [JSON](https://en.wikipedia.org/wiki/JSON) formatted summary with title, description and preview image for any requested URL. Free & paid plans. | **N/A** |
 | [**LiveChat**](https://developers.livechatinc.com/) | Online Customer Service software with customizable chat, embeddable widgets, help desk and web analytics tools. APIs include webhooks support, SDKs and open-source libraries to build on. | 💸 |
 | [**Lottery Number Generation**](https://fungenerators.com/api/lottery/) | Generate lottery numbers. Hundreds of lottery games from various countries are supported. | 💸 |
