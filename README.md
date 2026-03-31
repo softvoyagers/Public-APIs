@@ -114,6 +114,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**EAN-Search**](https://www.ean-search.org/ean-database-api.html) | The EAN-Search API allows you to lookup products by EAN, UPC or GTIN barcode. | 💸 |
 | [**QR Code API**](https://fungenerators.com/api/qrcode/) | QR Code REST API. Can create QR code images or read existing images and return the contents. | `💸` |
 | [**QR Code Generator API**](https://docs.openqr.io/) | Static and Dynamic QR code generator API | `💸` |
+| [**QRMint**](https://qrmint.dev/) | Free styled QR code generator API with custom colors, logos, and professional frames. No API key required. | **N/A** |
 | [**Stakdek's QR Generator API**](https://api.stakdek.de/blog?id=1006) | Returns QR code image. Uses `python qrcode`. | **N/A** |
 
 [⬆ Back to Table of Contents](#table-of-contents)
@@ -316,7 +317,9 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Dropbox**](https://www.dropbox.com/developers) | API for accessing stored files and pictures which is easy to use and free for small amounts of data. | **N/A** |
 | [**Filestack**](https://filestack.com/docs/) | API for image and file manipulation, 250 uploads and 500 uploads per month for free, free CDN, HTML widget. | **N/A** |
 | [**Microsoft Graph**](https://graph.microsoft.io/en-us/docs/api-reference/v1.0/resources/onedrive) | API for accessing stored files and photos for personal and enterprise users with high resolution thumbnails and Microsoft Office APIs. | **N/A** |
+| [**PageDrop**](https://pagedrop.dev/) | Free instant HTML and PDF hosting API. Deploy pages and get live links with automatic expiry. No signup or API key required. | **N/A** |
 | [**PDF Blocks**](https://www.pdfblocks.com/docs/api/getting-started) | API for working with PDF documents (merge, add password, watermark, and more). Well documented, easy to use. 14-day free trial. | 💸 |
+| [**PDFSpark**](https://pdfspark.dev/) | Free Chromium-powered HTML and URL to PDF conversion API. No API key, no rate limits, free forever. | **N/A** |
 | [**SignNow API – eSign API by airSlate**](https://docs.signnow.com/docs/signnow/welcome) | Embed branded eSignature workflows in your app and quickly customize them to your user needs. | 💸 |
 | [**Smash**](https://api.fromsmash.com/) | Smash API & SDK to upload large files on websites, mobile apps, SaaS solutions and custom workflows. | 💸 |
 | [**Vector Express**](https://github.com/smidyo/vectorexpress-api) | API for converting, processing and analyzing vector files.| **N/A** |
@@ -786,6 +789,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Bitly**](http://dev.bitly.com/links.html) | Access to Bitly’s API. | **N/A** |
 | [**GoTiny**](https://github.com/robvanbakel/gotiny-api) | Lightweight and easy to implement URL shortener. Supports custom links and offers JavaScript SDK. | **N/A** |
 | [**Is.gd**](https://is.gd/developers.php) | Simple URL shortener. Supports custom short link ending. | **N/A** |
+| [**LinkShrink**](https://linkshrink.dev/) | Free privacy-first URL shortener API with click analytics, custom aliases, and no tracking. No signup required. | **N/A** |
 | [**ShrtURI**](https://shrturi.com/docs) | URL shortening API for creating short URLs from long URLs. | **N/A** |
 | [**Tiny.cc**](https://tiny.cc/api-docs) | Easy-to-use URL shortener. Supports custom short link ending. | **N/A** |
 | [**Tiny.UID**](https://tinyuid.com/docs) | API for shortening long URLs. | **N/A** |
